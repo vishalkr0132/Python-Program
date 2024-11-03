@@ -1,0 +1,9 @@
+Here are some emails for testing:
+valid.email@example.com
+invalid-email@.com
+hello.world@domain.org
+another.email@domain.co.in
+notAnEmail@domain,com
+contact@company-name.com
+random-text without email
+vishalgupta.itcs@gmail.com
