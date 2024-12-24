@@ -1,0 +1,22 @@
+'''
+In Queue
+insertion of elements happens at one end called 'rare end'
+Delection of elements happens at another end called front end.
+
+Peak element considers the first inserted element to the queue
+we need to delete first inserted element to the queue one after another and not the last element as well middle element
+Types of queues:
+1. Linear queue: elements will be inserted one after another in a sequencial manner.
+2. circular queue: elements are inserted one after the another in a circular manner.
+                   Adding of elements is taken care of by rare 
+                   Deletion of elements is taken care of by front
+3. Priority queue: in this the queue works based on the priority
+
+Operations performed on Queue data structure:
+isFull(): returns True if the queue has reached its maximum size else returns False.
+isEmpty():  returns True if the queue has 0 elements else returns False.     
+enqueue(): It is used to add the elements to the queue.
+dequeue(): it is used to remove the elements from the queue.   
+peek(): it is used to return the first inserted element to the queue.
+display(): it is used to display all the elements in the queue.          
+'''
